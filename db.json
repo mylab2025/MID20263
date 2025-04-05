@@ -7,7 +7,7 @@
         "MF": "TEXAS INSTRUMENTS (TI)"
       },
       "MID": "MID20263",
-      "MD": "LM22674-ADJ is Step Down Switching Regulator with Wide input voltage range: 4.5 V to 42 V and adjustable output voltage as Low as 1.285 V. With maximum load current of 500mA (0.5A). ||Design Ref: U45  || Related MIDs: MID20264(L4)",
+      "MD": "LM22674-ADJ is Step Down Switching Regulator with Wide input voltage range: 4.5 V to 42 V and adjustable output voltage as Low as 1.285 V. With maximum load current of 500mA (0.5A). ||Design Ref: U45  || Required MIDs: MID20264 (L4), MID20265 (D46), MID20266 (C150), MID20267 (C153).",
       "MT": "Electronic Comp.",
       "MQNT": 11,
       "MQATG": "#CLASS1",
